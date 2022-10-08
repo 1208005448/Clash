@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,netflixdnstest
 DOMAIN-SUFFIX,oca.nflxvideo.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,android.prod.cloud.netflix.com
+DOMAIN-SUFFIX,android.prod.ftl.netflix.com
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
